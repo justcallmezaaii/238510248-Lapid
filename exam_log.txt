@@ -1,0 +1,147 @@
+    1  mkdir linux_practice
+    2  cd linux_practice
+    3  touch notes.txt
+    4  ls
+    5  touch ls > notes.txy
+    6  ls
+    7  rm ls notes.txy
+    8  ls
+    9  echo "notes.txt" > notes.txt
+   10  cat notes.txt
+   11  echo "Hello Linux" >> notes.txt
+   12  cat notes.txt
+   13  head notes.txt
+   14  tail notes.txt
+   15  mkdir subdir
+   16  mv notes.txt subdir
+   17  ls
+   18  cd subdir
+   19  cd../..
+   20  cd ../..
+   21  cd linux_practice
+   22  ls
+   23  cd subdir
+   24  ls
+   25  cp notes.txt cd/linux_practice
+   26  cp notes.txt cd
+   27  cd
+   28  ls
+   29  p
+   30  cd linux_practice
+   31  ls
+   32  subdir
+   33  cd subdir
+   34  ls
+   35  rm cd
+   36  ls
+   37  cp notes.txt linux_practice
+   38  ls
+   39  cd
+   40  cd linux_practice
+   41  ls
+   42  subdir
+   43  cds subdir
+   44  cd subdir
+   45  ls
+   46  rm linux_practice
+   47  cp notes.txt
+   48  --help
+   49  ls
+   50  cp notes.txt
+   51  cp notes.txt copyofnotes.txt
+   52  ls
+   53  mv copyofnotes.txt cd/
+   54  mv copyofnotes.txt p
+   55  ls
+   56  mv p copyofnotes.txt
+   57  ls
+   58  mv copypfnotes.txt ../
+   59  ls
+   60  mv copyofnotes.txt ../
+   61  ls
+   62  ../
+   63  cd
+   64  cd linux_practice
+   65  ls
+   66  df
+   67  cal
+   68  help
+   69  cd
+   70  df
+   71  sysver python
+   72  system version pythkm
+   73  mkdir finalexam
+   74  cd finalexam
+   75  cd
+   76  ls
+   77  cd finalexam
+   78  mkdir repo
+   79  git checkout -b finalexam
+   80  cd
+   81  la
+   82  ls
+   83  python --ver
+   84  pythom -h
+   85  python --version
+   86  php --version
+   87  mariadb --version
+   88  apt list
+   89  openjdk --versipn
+   90  openjdk --versiom
+   91  openjdk --version
+   92  openjdk
+   93  jdk
+   94  jdb --version
+   95  top
+   96  ps aux
+   97  pkg install gh
+   98  pkg update && pkg upgrade
+   99  pkg install curl
+  100  dkg -i gh_2
+  101  dkg -i gh_2.32.0_linux_arm64.deb
+  102  dpkg -i gh_2.32.0_linux_arm64.deb
+  103  curl -LO https://github.com/cli/cli/releases/download/v2.32.0/gh_2.32.0_linux_arm64.deb
+  104  dpkg -i gh_2.32.0_linux_arm64.deb
+  105  gh
+  106  git
+  107  dkg
+  108  dpkg -i gh_2.32.0_linux_arm64.deb
+  109  pkg install -f
+  110  gh auth login
+  111  ls
+  112  cd https://github.com/justcallmezaaii/238510248-Lapid
+  113  cd ~/https://guthub.com/justcallmezaaii/238510248-Lapid
+  114  echo "# 238510248-Lapid" >> README.md
+  115  git init
+  116  git add README.md
+  117  git commit -m "first commit"
+  118  git config --global user.name "Zairen Lapid"
+  119  git config --global user.email "zaidennn14@gmail.com"
+  120  git commit -m "first commit"
+  121  git branch -M main
+  122  git remote add origin https:,
+  123  git push -u origin main
+  124  git remote add origin https://github.com/justcallmezaaii/238510248-Lapid.git
+  125  git remote remove origin
+  126  git remote add origin https://github.com/justcallmezaaii/238510248-Lapid.git
+  127  git push -u origin main
+  128  cd ~/238510248-Lapid
+  129  cd ~/https://https://github.com/justcallmezaaii/238510248-Lapid.git
+  130  cd ~/yourrepo
+  131  ls
+  132  date
+  133  uptime
+  134  du -sh ~
+  135  ssh -v
+  136  php -v
+  137  mysql --version
+  138  apache2 -v
+  139  python -v
+  140  python --version
+  141  java --version
+  142  gh repo clone https://github.com/justcallmezaaii/238510248-Lapid.git
+  143  cd <238510248-Lapid>
+  144  ls
+  145  cd 238510248-Lapid
+  146  git checkout -b finalexam
+  147  history > exam_log.txt
